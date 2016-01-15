@@ -11,7 +11,7 @@ for Google Closure Compiler, which compiles source code into excellent JavaScrip
 
 Light weight and optimized for web, containing all the Joints and functionality of Box2D v2.3.1. All prototype chain lookups 
 slashed to minimum. 'Scope' and 'context' are managed by the call stack which is much faster than javascripts convenience methods .apply() and .call() which are not used anywhere. All classes are written in their own file (for enjoyable source code management)
-and COMPATIBLE with Google Closure Compiler. Hundreds of the common practice goog.provides()/imports() eliminated by manually sequenced classes, which also eliminates the need to include Closure library's 'base.js'. All just unnecessary extra work for the browser and bloat for the download, eliminated.
+and COMPATIBLE with Google Closure Compiler. Hundreds of the common practice goog.provides()/imports() eliminated by manually sequenced classes, which also eliminates the need to include Closure library's 'base.js'. All just unnecessary extra work for the browser and bloat to download, eliminated.
 
 Potentially replace LinkedList data structures c++ requires for memory management with more efficient LookupTable data
 Structures. LookupTables are apparently more compatible with the JavaScript environment than they were with c++ environment.
