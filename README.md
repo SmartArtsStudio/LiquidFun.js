@@ -1,4 +1,4 @@
-![liquidfun js-logo](https://cloud.githubusercontent.com/assets/8098454/12366589/3605657c-bc30-11e5-906f-2c71a4e09311.png)
+![liquidfun js-logo](https://cloud.githubusercontent.com/assets/8098454/12370756/119ff198-bc71-11e5-94d7-c8e3e9fe570e.png)
 
 A professional, developer friendly, native JavaScript optimized Box2D and LiquidFun library.
 Not an unreadable ASM.js result of c++ transpilation.
